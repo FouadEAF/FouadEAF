@@ -4,7 +4,7 @@
 My areas of interest are Web and Android development,  Software Engineering and i am a MS Office expert plus data analytic by Power BI, i2, Excel, ...
 <br>
 
-You can visit my portfolio [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfolio") to consult some of my works not all works -_^ 
+You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfolio") to consult some of my works not all works -_^ 
 <br>
 
 ---
@@ -22,7 +22,7 @@ You can visit my portfolio [portfolio](https://fouadeaf.github.io/Developper_EAF
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 </a>
 <!-- Andoid Studio -->
-<img src="https://icons8.com/icon/04OFrkjznvcd/android-studio" height="40" style="vertical-align:top; margin:4px">
+<img src="![Alt text](image.png)" height="40" style="vertical-align:top; margin:4px">
 
 <!-- mysql -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> </a>
