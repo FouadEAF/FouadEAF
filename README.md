@@ -58,15 +58,21 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
     <a href="tel:212645994904" target="_blank" alt="212645994904">
         <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone: +212(0)645994904" height="40" title="Phone: +212(0)645994904">
     </a>
-    <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
+    <a href="https://github.com/FouadEAF#contact-me">
+        <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
+    </a>
     <a href="mailto:DevelopperEAF@gmail.com" target="_blank">
         <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail: DevelopperEAF@gmail.com" height="40">
     </a>
-    <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
+    <a href="https://github.com/FouadEAF#contact-me">
+        <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
+    </a>
     <a href="https://api.whatsapp.com/send?phone=+212645994904&text=Hi_sir!_I_contcat_you_from_Github_account_(TYPE_YOUR_MSG_HERE)" target="_blank">
         <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Whatsapp: 212645994904" height="40">
     </a>
+    <a href="https://github.com/FouadEAF#contact-me">
         <img src="https://www.svgrepo.com/show/500777/back.svg" alt="Back" height="40">
+    </a>
 </p>
 
 ---
