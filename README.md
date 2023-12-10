@@ -53,16 +53,16 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 
 <p align="center" style="display: flex; gap: 20px; align-items: center; justify-content: center; padding-left: 20px;">
     <img src="https://www.svgrepo.com/show/500945/next.svg" alt="next" height="40">
-    <a href="tel:212645994904" target="_blank">
-    <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone" height="40">
+    <a href="tel:212645994904" target="_blank" alt="212645994904">
+    <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone: +212(0)645994904" height="40">
     </a>
     <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
     <a href="mailto:DevelopperEAF@gmail.com" target="_blank">
-        <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" height="40">
+        <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail: DevelopperEAF@gmail.com" height="40">
     </a>
     <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
     <a href="https://api.whatsapp.com/send?phone=+212645994904&text=Hi_sir!_I_contcat_you_from_Github_account_(TYPE_YOUR_MSG_HERE)" target="_blank">
-        <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Whatsapp" height="40">
+        <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Whatsapp: 212645994904" height="40">
     </a>
         <img src="https://www.svgrepo.com/show/500777/back.svg" alt="Back" height="40">
 </p>
