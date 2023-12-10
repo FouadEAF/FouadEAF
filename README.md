@@ -14,7 +14,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Git -->
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
 <!-- Github -->
-<a href="https://github.com/FouadEAF/ rel="noreferrer"> 
+<a href="https://github.com/FouadEAF/" rel="noreferrer"> 
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
 </a>
 <!-- Visual Studio Code -->
@@ -52,7 +52,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 
 #### Contact Me: <br>
 E-mail: DevelopperEAF@gmail.com<br>
-Phone: +212(0)645994904
+Phone: +212(0)645994904<br>
 Whatsapp: [Developper EAF](https://wa.me/212645994904 "whatsapp")
 
 ---
@@ -61,4 +61,4 @@ Whatsapp: [Developper EAF](https://wa.me/212645994904 "whatsapp")
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FouadEAF"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FouadEAF&theme=github"/>
 
-<centre> All right reserved (C).Developper EAF 2023 </centre>
+<p align="center"> All right reserved (C).Developper EAF 2023 </p>
