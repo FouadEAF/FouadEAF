@@ -44,7 +44,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Dart -->
 <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="50" style="vertical-align:top; margin:4px">
 <!-- Flutter -->
-<img src="https://i.im.ge/2023/12/10/E07Inr.flutter-logo.png" alt="Flutter Logo" height="50" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/120px-Google-flutter-logo.svg.png" alt="Flutter Logo" height="50" style="vertical-align:top; margin:4px">
 </p>
                                                                                                                                        
 ---
