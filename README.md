@@ -8,6 +8,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <br></b>
 
 ---
+
 ### <u>Tools & Languages</u>
 
 <p align="center">
