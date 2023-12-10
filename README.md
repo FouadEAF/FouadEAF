@@ -4,7 +4,7 @@
 My areas of interest are Web and Android development, Software Engineering and i am a MS Office expert plus data analytic by Power BI, i2, Excel, ...
 <br>
 
-You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfolio") to consult some of my works not all works -_^ 
+You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfolio") to consult some of my works not all works -_^
 <br>
 
 ---
@@ -14,7 +14,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
 <!-- Github -->
-<a href="https://github.com/FouadEAF/" rel="noreferrer"> 
+<a href="https://github.com/FouadEAF/" rel="noreferrer">
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
 </a>
 <!-- Visual Studio Code -->
@@ -48,7 +48,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- MS Office -->
 <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="Flutter Logo" height="50" style="vertical-align:top; margin:4px">
 </p>
-                                                                                                                                       
+
 ---
 
 #### <u>Contact Me:</u> <br>
@@ -61,9 +61,9 @@ Whatsapp: [Developper EAF](https://wa.me/212645994904 "whatsapp")
 
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FouadEAF" alt="Repos per Language">
     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FouadEAF&theme=github" alt="GitHub Stats">
-    <a href="https://git.io/streak-stats">
+    <!-- <a href="https://git.io/streak-stats"> -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FouadEAF" alt="GitHub Streak">
-  </a>
+  <!-- </a> -->
 
 </p>
 
