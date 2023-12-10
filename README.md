@@ -45,7 +45,8 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Dart -->
 <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="50" style="vertical-align:top; margin:4px">
 <!-- Flutter -->
-[![Flutter Logo](https://i.im.ge/2023/12/10/E07Inr.flutter-logo.png)](https://im.ge/i/flutter-logo.E07Inr)
+[![Flutter Logo](https://github.com/FouadEAF/FouadEAF/raw/main/path-to-your-image-folder/E07Inr.flutter-logo.png)](https://github.com/FouadEAF/FouadEAF/blob/main/path-to-your-image-folder/E07Inr.flutter-logo.png)
+
 
 
 
