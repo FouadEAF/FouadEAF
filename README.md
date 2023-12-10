@@ -1,4 +1,4 @@
-# <u>Developper EAF</u>
+# <p align="center"><u>Developper EAF</u></p>
 
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+El+Azbi+Fouad;Software+Engineer;Full-Stack+Web+and+Anroid+Developer!)
 <b>My areas of interest are Web and Android development, Software Engineering and i am a MS Office expert plus data analytic by Power BI, i2, Excel, ...
