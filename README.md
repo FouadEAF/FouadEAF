@@ -48,7 +48,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <a href="https://im.ge/i/E07Inr"><img src="https://i.im.ge/2023/12/10/E07Inr.flutter-logo.png" alt="flutter-logo"></a>
 <a href="https://im.ge/i/flutter-logo.E07Inr"><img src="https://i.im.ge/2023/12/10/E07Inr.flutter-logo.png" alt="flutter-logo"></a>
 <img src="https://i.im.ge/2023/12/10/E07Inr.flutter-logo.png" alt="flutter-logo">
-<img src="https://im.ge/i/flutter-logo.E07Inr" alt="flutter-logo">
+<img src="https://i.im.ge/2023/12/10/E07Inr.flutter-logo.png" alt="flutter-logo">
 
 </p>
                                                                                                                                                     
