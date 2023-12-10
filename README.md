@@ -1,4 +1,4 @@
-# Developper EAF
+# <u>Developper EAF</u>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+El+Azbi+Fouad;Software+Engineer;Full-Stack+Web+and+Anroid+Developer!)](https://git.io/typing-svg)
 My areas of interest are Web and Android development,  Software Engineering and i am a MS Office expert plus data analytic by Power BI, i2, Excel, ...
@@ -8,7 +8,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <br>
 
 ---
-### Tools & Languages
+### <u>Tools & Languages</u>
 
 <p align="center">
 <!-- Git -->
@@ -50,7 +50,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
                                                                                                                                                     
 ---
 
-#### Contact Me: <br>
+#### <u>Contact Me:</u> <br>
 E-mail: DevelopperEAF@gmail.com<br>
 Phone: +212(0)645994904<br>
 Whatsapp: [Developper EAF](https://wa.me/212645994904 "whatsapp")
