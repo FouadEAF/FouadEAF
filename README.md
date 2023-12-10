@@ -53,11 +53,11 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 
 <p align="center" style="display: flex; gap: 20px; align-items: center; justify-content: center; padding-left: 20px;">
     <img src="https://www.svgrepo.com/show/500945/next.svg" alt="next" height="40">
-    <a href="tel:+212645994904">
+    <a href="tel:+212645994904" target="_blank">
     <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone" height="40">
     </a>
     <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
-    <a href="mailto:DevelopperEAF@gmail.com">
+    <a href="mailto:DevelopperEAF@gmail.com" target="_blank">
         <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" height="40">
     </a>
     <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
