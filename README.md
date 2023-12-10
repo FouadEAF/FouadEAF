@@ -58,8 +58,11 @@ Whatsapp: [Developper EAF](https://wa.me/212645994904 "whatsapp")
 
 ---
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FouadEAF)](https://git.io/streak-stats)
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FouadEAF"/>
-<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FouadEAF&theme=github"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FouadEAF" alt="GitHub Streak">
+  </a>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FouadEAF" alt="Repos per Language">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FouadEAF&theme=github" alt="GitHub Stats">
 </p>
+
 <p align="center"> All right reserved (C).Developper EAF 2023 </p>
