@@ -56,10 +56,12 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
     <a href="tel:+212645994904" >
         <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone" height="40">
     </a>
+    <br>
     <a href="mailto:DevelopperEAF@gmail.com">
         <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" height="40">
     </a>
-    <a href="https://api.whatsapp.com/send?phone=+212645994904&text=Hi_sir!_I_contcat_you_from_Github_account_'YOUR_MSG_HERE'">
+    <br>
+    <a href="https://api.whatsapp.com/send?phone=+212645994904&text=Hi_sir!_I_contcat_you_from_Github_account_(TYPE_YOUR_MSG_HERE)">
         <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Whatsapp" height="40">
     </a>
 </div>
