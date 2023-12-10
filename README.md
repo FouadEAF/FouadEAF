@@ -57,7 +57,7 @@ Phone: +212(0)645994904<br>
 Whatsapp: [Developper EAF](https://wa.me/212645994904 "whatsapp")
 
 ---
-<p align="center"> 
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FouadEAF)](https://git.io/streak-stats)
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FouadEAF"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FouadEAF&theme=github"/>
