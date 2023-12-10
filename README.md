@@ -1,6 +1,6 @@
 # Developper EAF
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+Fouad+El+Azbi;Software+Engineer;Full-Stack+Web+and+Anroid+Developer!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+El+Azbi+Fouad;Software+Engineer;Full-Stack+Web+and+Anroid+Developer!)](https://git.io/typing-svg)
 My areas of interest are Web and Android development,  Software Engineering and i am a MS Office expert plus data analytic by Power BI, i2, Excel, ...
 <br>
 
@@ -14,7 +14,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Git -->
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
 <!-- Github -->
-<a href="https://github.com/FouadEAF target="_blank" rel="noreferrer"> 
+<a href="https://github.com/FouadEAF/ rel="noreferrer"> 
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
 </a>
 <!-- Visual Studio Code -->
@@ -22,7 +22,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 </a>
 <!-- Andoid Studio -->
-<img src="![Alt text](image.png)" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src="![Alt text](image.png)" height="40" style="vertical-align:top; margin:4px"> -->
 
 <!-- mysql -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> </a>
@@ -45,9 +45,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Dart -->
 <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="50" style="vertical-align:top; margin:4px">
 <!-- Flutter -->
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
-<polygon fill="#40c4ff" points="26,4 6,24 12,30 38,4"></polygon><polygon fill="#40c4ff" points="38,22 27,33 21,27 26,22"></polygon><rect width="8.485" height="8.485" x="16.757" y="28.757" fill="#03a9f4" transform="rotate(-45.001 21 33)"></rect><polygon fill="#01579b" points="38,44 26,44 21,39 27,33"></polygon><polygon fill="#084994" points="21,39 30,36 27,33"></polygon>
-</svg>
+
 </p>
                                                                                                                                                     
 ---
@@ -55,6 +53,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 #### Contact Me: <br>
 E-mail: DevelopperEAF@gmail.com<br>
 Phone: +212(0)645994904
+Whatsapp: [Developper EAF](https://wa.me/212645994904 "whatsapp")
 
 ---
 
@@ -62,4 +61,4 @@ Phone: +212(0)645994904
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FouadEAF"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FouadEAF&theme=github"/>
 
-All right reserved (C).Developper EAF 2023
+<centre> All right reserved (C).Developper EAF 2023 </centre>
