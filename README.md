@@ -45,7 +45,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Dart -->
 <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="50" style="vertical-align:top; margin:4px">
 <!-- Flutter -->
-<img src="https://assets.owebest.com/files/Blogs/bg_img/3fb1a1ee2fbff71adf551002c19a4dcf/flutter.png" height="50" style="vertical-align:top; margin:4px">
+<img src="https://im.ge/i/E07Inr" height="50" style="vertical-align:top; margin:4px">
 
 </p>
                                                                                                                                                     
