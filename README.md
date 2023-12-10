@@ -28,7 +28,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Shell -->
 <img src="https://user-images.githubusercontent.com/76790341/190482427-414de214-10ea-4b75-9949-9d2e51c50b09.png" height="40" style="vertical-align:top; margin:4px">
 <!-- ubuntu -->
-<img src="https://www.ubuntu-fr.org/img/logo.svg" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/1280px-Ubuntu-logo-2022.svg.png" height="40" style="vertical-align:top; margin:4px">
 <!-- Python -->
 <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" height="40" style="vertical-align:top; margin:4px">
 <!-- Objectif C -->
