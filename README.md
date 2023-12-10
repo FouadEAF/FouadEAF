@@ -52,7 +52,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 #### <u>Contact Me:</u><br>
 
 <p align="center" style="display: flex; gap: 20px; align-items: center; justify-content: center; padding-left: 20px;">
-    <a href="">
+    <a href="javascript:void(0)">
         <img src="https://www.svgrepo.com/show/500945/next.svg" alt="next" height="40">
     </a>
     <a href="tel:212645994904" target="_blank" alt="212645994904">
