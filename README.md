@@ -51,8 +51,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 
 #### <u>Contact Me:</u><br>
 
-<p align="center">
-<div style="display: flex; gap: 20px; align-items: center; justify-content: center; padding-left: 20px;">
+<p align="center" style="display: flex; gap: 20px; align-items: center; justify-content: center; padding-left: 20px;">
     <a href="tel:+212645994904" >
         <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone" height="40">
     </a>
@@ -62,7 +61,6 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
     <a href="https://api.whatsapp.com/send?phone=+212645994904&text=Hi_sir!_I_contcat_you_from_Github_account_(TYPE_YOUR_MSG_HERE)">
         <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Whatsapp" height="40">
     </a>
-</div>
 </p>
 
 ---
