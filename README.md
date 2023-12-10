@@ -15,7 +15,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
     <!-- Github -->
     <a href="https://github.com/FouadEAF/" rel="noreferrer">
-        <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
+        <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top; margin:4px">
     </a>
     <!-- Visual Studio Code -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
@@ -40,23 +40,22 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
     <!-- JavaScript -->
     <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
     <!-- Dart -->
-    <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="50" style="vertical-align:top; margin:4px">
+    <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="40" style="vertical-align:top; margin:4px">
     <!-- Flutter -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/120px-Google-flutter-logo.svg.png" alt="Flutter Logo" height="50" style="vertical-align:top; margin:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/120px-Google-flutter-logo.svg.png" alt="Flutter Logo" height="40" style="vertical-align:top; margin:4px">
     <!-- MS Office -->
-    <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="Flutter Logo" height="50" style="vertical-align:top; margin:4px">
+    <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="Flutter Logo" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ---
 
 #### <u>Contact Me:</u> <br>
-<!-- E-mail: DevelopperEAF@gmail.com<br> -->
 Phone: +212(0)645994904<br>
 <a herf="mailto:DevelopperEAF@gmail.com">
-<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" height="50" style="vertical-align:top; margin:4px">
+<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px">
 </a><br>
-<a herf="https://wa.me/212645994904"></a>
-<img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Whatsapp" height="50" style="vertical-align:top; margin:4px">: [Developper EAF](https://api.whatsapp.com/send?phone=212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_'YOUR_MSG_HERE')
+<!-- <a herf="https://wa.me/212645994904"></a> -->
+<img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Whatsapp" height="40" style="vertical-align:top; margin:4px">: [Developper EAF](https://api.whatsapp.com/send?phone=212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_'YOUR_MSG_HERE')
 
 ---
 <p align="center">
