@@ -18,13 +18,14 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
 </a>
 <!-- Visual Studio Code -->
-<a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer">
+<!-- <a href="https://code.visualstudio.com/download" target="_blank" rel="noreferrer"> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
-</a>
+<!-- </a> -->
 <!-- Andoid Studio -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/120px-Android_Studio_icon_%282023%29.svg.png" height="40" style="vertical-align:top; margin:4px">
 <!-- mysql -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> </a>
+<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> <!--</a> -->
 <!-- Shell -->
 <img src="https://user-images.githubusercontent.com/76790341/190482427-414de214-10ea-4b75-9949-9d2e51c50b09.png" height="40" style="vertical-align:top; margin:4px">
 <!-- ubuntu -->
@@ -54,7 +55,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 #### <u>Contact Me:</u> <br>
 E-mail: DevelopperEAF@gmail.com<br>
 Phone: +212(0)645994904<br>
-Whatsapp: [Developper EAF](https://wa.me/212645994904 "whatsapp")
+Whatsapp: [Developper EAF](https://api.whatsapp.com/send?phone=+212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_[YOUR_MSG_HERE])
 
 ---
 <p align="center">
