@@ -61,7 +61,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
     <a href="https://github.com/FouadEAF#contact-me">
         <img src="https://www.svgrepo.com/show/345621/code-s.svg" alt="--" height="40">
     </a>
-    <a href="mailto:DevelopperEAF@gmail.com" target="_blank">
+    <a href="mailto:DevelopperEAF@gmail.com" target="blank">
         <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail: DevelopperEAF@gmail.com" height="40">
     </a>
     <a href="https://github.com/FouadEAF#contact-me">
