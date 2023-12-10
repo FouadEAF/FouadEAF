@@ -14,10 +14,14 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <a href="https://github.com/FouadEAF#tools--languages">
     <!-- Git -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
+        </a>
     <!-- Github -->
+    <a href="https://github.com/FouadEAF/" rel="noreferrer">
         <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top; margin:4px">
+    </a>
     <!-- Visual Studio Code -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
+    <a href="https://github.com/FouadEAF#tools--languages">
     <!-- Andoid Studio -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/120px-Android_Studio_icon_%282023%29.svg.png" height="40" style="vertical-align:top; margin:4px">
     <!-- SQL -->
