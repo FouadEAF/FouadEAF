@@ -50,9 +50,13 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 ---
 
 #### <u>Contact Me:</u> <br>
-E-mail: DevelopperEAF@gmail.com<br>
+<!-- E-mail: DevelopperEAF@gmail.com<br> -->
 Phone: +212(0)645994904<br>
-<img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Whatsapp" height="50" style="vertical-align:top; margin:4px">: [Developper EAF](https://api.whatsapp.com/send?phone=+212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_'YOUR_MSG_HERE')
+<a herf="mailto:DevelopperEAF@gmail.com">
+<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" height="50" style="vertical-align:top; margin:4px">
+</a><br>
+<a herf="https://wa.me/212645994904"></a>
+<img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Whatsapp" height="50" style="vertical-align:top; margin:4px">: [Developper EAF](https://api.whatsapp.com/send?phone=212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_'YOUR_MSG_HERE')
 
 ---
 <p align="center">
