@@ -12,7 +12,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 
 <p align="center">
 <!-- Git -->
-<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
 <!-- Github -->
 <a href="https://github.com/FouadEAF/" rel="noreferrer"> 
 <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top;   margin:4px">
@@ -45,6 +45,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Dart -->
 <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="50" style="vertical-align:top; margin:4px">
 <!-- Flutter -->
+<img src="https://assets.owebest.com/files/Blogs/bg_img/3fb1a1ee2fbff71adf551002c19a4dcf/flutter.png" height="50" style="vertical-align:top; margin:4px">
 
 </p>
                                                                                                                                                     
