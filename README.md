@@ -11,6 +11,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 ### <u>Tools & Languages</u>
 
 <p align="center">
+<a href="https://github.com/FouadEAF#tools--languages">
     <!-- Git -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"  height="40" style="vertical-align:top; margin:4px">
     <!-- Github -->
@@ -45,6 +46,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/120px-Google-flutter-logo.svg.png" alt="Flutter Logo" height="40" style="vertical-align:top; margin:4px">
     <!-- MS Office -->
     <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="Flutter Logo" height="40" style="vertical-align:top; margin:4px">
+</a>
 </p>
 
 ---
