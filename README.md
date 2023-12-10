@@ -55,9 +55,9 @@ Phone: +212(0)645994904<br>
   <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" height="40">
 </a><br>
 
-<!-- <a herf="https://api.whatsapp.com/send?phone=212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_'YOUR_MSG_HERE'">
+<a herf="https://api.whatsapp.com/send?phone=212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_'YOUR_MSG_HERE'">
     <img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Whatsapp" height="40" >
-</a> -->
+</a>
 ---
 <p align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FouadEAF" alt="Repos per Language">
