@@ -50,7 +50,8 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 ---
 
 #### <u>Contact Me:</u><br>
-<div style="display: flex; gap: 20px; align-items: center;">
+
+<div style="display: flex; gap: 20px; align-items: center; margin-right: 20px;">
   <a href="tel:+212645994904">
     <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Phone" height="40">
   </a>
