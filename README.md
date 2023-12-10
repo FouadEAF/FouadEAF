@@ -1,11 +1,11 @@
 # <u>Developper EAF</u>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+El+Azbi+Fouad;Software+Engineer;Full-Stack+Web+and+Anroid+Developer!)]
-My areas of interest are Web and Android development, Software Engineering and i am a MS Office expert plus data analytic by Power BI, i2, Excel, ...
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+El+Azbi+Fouad;Software+Engineer;Full-Stack+Web+and+Anroid+Developer!)
+<b>My areas of interest are Web and Android development, Software Engineering and i am a MS Office expert plus data analytic by Power BI, i2, Excel, ...
 <br>
 
 You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfolio") to consult some of my works not all works -_^
-<br>
+<br></b>
 
 ---
 ### <u>Tools & Languages</u>
@@ -58,7 +58,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
     <a href="mailto:DevelopperEAF@gmail.com">
         <img src="https://www.svgrepo.com/show/349378/gmail.svg" alt="Gmail" height="40">
     </a>
-    <a href="javascript:void(0);" onclick="window.open('https://api.whatsapp.com/send?phone=+212645994904&text=Hi_sir!_I_contcat_you_from_Github_account_(TYPE_YOUR_MSG_HERE)', '_blank');">
+    <a href="https://api.whatsapp.com/send?phone=+212645994904&text=Hi_sir!_I_contcat_you_from_Github_account_(TYPE_YOUR_MSG_HERE)" target="_blank">
         <img src="https://www.svgrepo.com/show/452133/whatsapp.svg" alt="Whatsapp" height="40">
     </a>
 </p>
@@ -70,5 +70,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
     <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FouadEAF&theme=github" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FouadEAF" alt="GitHub Streak">
 </p>
+
+---
 
 <p align="center"> All right reserved (C).Developper EAF 2023 </p>
