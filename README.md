@@ -49,16 +49,21 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 
 ---
 
-#### <u>Contact Me:</u> <br>
-Phone: +212(0)645994904<br>
+#### <u>Contact Me:</u>
+<br>
+<a href="tel:+212645994904"></a>
+  <img src="https://www.svgrepo.com/show/526085/phone-calling.svg" alt="Gmail" height="40">
+<br>
 <a href="mailto:DevelopperEAF@gmail.com">
   <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="Gmail" height="40">
-</a><br>
-
+</a>
+<br>
 <a href="https://api.whatsapp.com/send?phone=212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_'YOUR_MSG_HERE'">
     <img src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" alt="Whatsapp" height="40" >
 </a>
+
 ---
+
 <p align="center">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FouadEAF" alt="Repos per Language">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FouadEAF&theme=github" alt="GitHub Stats">
