@@ -22,8 +22,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 </a>
 <!-- Andoid Studio -->
-<!-- <img src="![Alt text](image.png)" height="40" style="vertical-align:top; margin:4px"> -->
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/120px-Android_Studio_icon_%282023%29.svg.png" height="40" style="vertical-align:top; margin:4px">
 <!-- mysql -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> </a>
 <!-- Shell -->
@@ -45,13 +44,9 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 <!-- Dart -->
 <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="50" style="vertical-align:top; margin:4px">
 <!-- Flutter -->
-[![Flutter Logo](https://github.com/FouadEAF/FouadEAF/raw/main/path-to-your-image-folder/E07Inr.flutter-logo.png)](https://github.com/FouadEAF/FouadEAF/blob/main/path-to-your-image-folder/E07Inr.flutter-logo.png)
-
-
-
-
+<img src="https://i.im.ge/2023/12/10/E07Inr.flutter-logo.png" alt="Flutter Logo" height="50" style="vertical-align:top; margin:4px">
 </p>
-                                                                                                                                                    
+                                                                                                                                       
 ---
 
 #### <u>Contact Me:</u> <br>
