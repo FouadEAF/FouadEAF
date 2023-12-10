@@ -55,7 +55,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
 #### <u>Contact Me:</u> <br>
 E-mail: DevelopperEAF@gmail.com<br>
 Phone: +212(0)645994904<br>
-Whatsapp: [Developper EAF](https://api.whatsapp.com/send?phone=+212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_[YOUR_MSG_HERE])
+Whatsapp: [Developper EAF](https://api.whatsapp.com/send?phone=+212645994904&ext=Hi_sir!_I_contcat_you_from_Github_account_'YOUR_MSG_HERE')
 
 ---
 <p align="center">
