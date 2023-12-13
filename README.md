@@ -20,31 +20,37 @@ You can visit my [portfolio](https://fouadeaf.github.io/Developper_EAF/ "portfol
         <!-- Visual Studio Code -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
         <!-- Andoid Studio -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/120px-Android_Studio_icon_%282023%29.svg.png" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/120px-Android_Studio_icon_%282023%29.svg.png" alt="Andoid Studio" height="40" style="vertical-align:top; margin:4px">
+        <!-- i2 Analyst's Notebook  -->
+        <img src="https://img.informer.com/icons/png/128/7486/7486299.png" alt="i2 Analyst's Notebook" height="40" style="vertical-align:top; margin:4px" >
         <!-- SQL -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/>
+        <!-- Firebase -->
+        <img src="https://mlsb5edd0ks1.i.optimole.com/cb:q7B0.63723/w:502/h:518/q:mauto/f:best/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="Firebase" height="50"/>
         <!-- Shell -->
-        <img src="https://user-images.githubusercontent.com/76790341/190482427-414de214-10ea-4b75-9949-9d2e51c50b09.png" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://user-images.githubusercontent.com/76790341/190482427-414de214-10ea-4b75-9949-9d2e51c50b09.png" alt="Shell" height="40" style="vertical-align:top; margin:4px">
         <!-- ubuntu -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/1280px-Ubuntu-logo-2022.svg.png" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/1280px-Ubuntu-logo-2022.svg.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
         <!-- Python -->
-        <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://user-images.githubusercontent.com/76790341/187140476-61664fc5-1562-48a3-a5a5-f2f6d8ac917f.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
         <!-- Flask -->
-        <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
         <!-- Objectif C -->
-        <img src="https://user-images.githubusercontent.com/76790341/187141646-76dd8b84-1e63-4b5e-b61d-30040f2573cb.png"height="40" style="vertical-align:top; margin:4px">
+        <img src="https://user-images.githubusercontent.com/76790341/187141646-76dd8b84-1e63-4b5e-b61d-30040f2573cb.png" alt="Objectif C" height="40" style="vertical-align:top; margin:4px">
         <!-- HTML -->
-        <img src="https://user-images.githubusercontent.com/76790341/187141391-bfad1a42-3cc2-4edd-903b-6d362ee63fc2.png" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://user-images.githubusercontent.com/76790341/187141391-bfad1a42-3cc2-4edd-903b-6d362ee63fc2.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
         <!-- CSS -->
-        <img src="https://user-images.githubusercontent.com/76790341/187142293-2280c369-2a56-4dcd-8547-df421d9421fe.png" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://user-images.githubusercontent.com/76790341/187142293-2280c369-2a56-4dcd-8547-df421d9421fe.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
         <!-- JavaScript -->
-        <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
         <!-- Dart -->
-        <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="Dart" height="40" style="vertical-align:top; margin:4px">
         <!-- Flutter -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/120px-Google-flutter-logo.svg.png" alt="Flutter Logo" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/120px-Google-flutter-logo.svg.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
         <!-- MS Office -->
-        <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="Flutter Logo" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="MS Office" height="40" style="vertical-align:top; margin:4px">
+        <!-- Power BI -->
+        <img src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1685891356/hevo-learn-1/Power-BI-Power-BI-logo.png?_i=AA" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
     </a>
 </p>
 
