@@ -37,7 +37,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/elazbi/ "portfolio") to 
         <!-- Flask -->
         <img src="https://user-images.githubusercontent.com/76790341/187142840-1acfcea2-a215-4f56-b11e-216fc8aa885b.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
         <!-- Django -->
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg" alt="Django" height="40" style="vertical-align:top; margin:4px">
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="Django" height="40" style="vertical-align:top; margin:4px">
         <!-- Objectif C -->
         <img src="https://user-images.githubusercontent.com/76790341/187141646-76dd8b84-1e63-4b5e-b61d-30040f2573cb.png" alt="Objectif C" height="40" style="vertical-align:top; margin:4px">
         <!-- HTML -->
