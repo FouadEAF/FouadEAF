@@ -1,8 +1,19 @@
 # <p align="center"><u>Developper EAF</u></p>
 
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+El+Azbi+Fouad;Software+Engineer;Full-Stack+Web+and+Anroid+Developer!)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=550&lines=+El+Azbi+Fouad;Software+Engineer;Full-Stack+Web,+Windows+and+Anroid+Developer!)
 
-<b>My areas of interest are Web and Android development, Software Engineering and i am a MS Office expert plus data analytic by Power BI, i2, Excel, ...
+<b>Hello! I'm <span style="color:#016EEA;"><strong>El Azbi Fouad</strong></span>, a passionate Software Engineer.</b>
+I specialize in:
+
+🔧 Full-Stack Development (Web, Windows, and Android)
+
+🖥️ Custom Software Engineering
+
+📊 Data Analytics using Power BI, Excel, and i2
+
+💼 MS Office Automation & Expertise
+
+I'm constantly exploring new technologies and building efficient, scalable, and user-friendly software solutions. Whether it's crafting intuitive interfaces or diving deep into data, I'm always ready to innovate and learn.
 <br>
 
 You can visit my [portfolio](https://fouadeaf.github.io/elazbi/ "portfolio") to consult more information about me -\_^
