@@ -38,7 +38,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/elazbi/ "portfolio") to 
         <!-- SQL -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/>
         <!-- Firebase -->
-        <img src="https://mlsb5edd0ks1.i.optimole.com/cb:q7B0.63723/w:502/h:518/q:mauto/f:best/https://keytotech.com/wp-content/uploads/2019/05/firebase.png" alt="Firebase" height="50"/>
+        <img src="[https://mlsb5edd0ks1.i.optimole.com/cb:q7B0.63723/w:502/h:518/q:mauto/f:best/https://keytotech.com/wp-content/uploads/2019/05/firebase.png](https://www.gstatic.com/devrel-devsite/prod/vd661722dc0bf89538e3b1471bfa72ffd39d274bea13001a4422eac953971d84d/firebase/images/lockup.svg)" alt="Firebase" height="50"/>
         <!-- Shell -->
         <img src="https://user-images.githubusercontent.com/76790341/190482427-414de214-10ea-4b75-9949-9d2e51c50b09.png" alt="Shell" height="40" style="vertical-align:top; margin:4px">
         <!-- ubuntu -->
@@ -58,7 +58,7 @@ You can visit my [portfolio](https://fouadeaf.github.io/elazbi/ "portfolio") to 
         <!-- JavaScript -->
         <img src="https://user-images.githubusercontent.com/76790341/187142409-fa9b3fc9-8e08-4870-b4d9-a630a3505339.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
         <!-- Dart -->
-        <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" alt="Dart" height="40" style="vertical-align:top; margin:4px">
+        <img src="[https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg](https://dart.dev/assets/img/logo/dart-192.svg)" alt="Dart" height="40" style="vertical-align:top; margin:4px">
         <!-- Flutter -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/120px-Google-flutter-logo.svg.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
         <!-- MS Office -->
