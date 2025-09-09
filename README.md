@@ -31,6 +31,9 @@ You can visit my [portfolio](https://fouadeaf.github.io/elazbi/ "portfolio") to 
         <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ3SKA8cR3JS27Y_ijrqVSHjoDKjM_bhK7Q&usqp=CAU" alt="GitHub"  height="40" style="vertical-align:top; margin:4px">
         <!-- Visual Studio Code -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
+        <!-- Cursor -->
+        <!-- <img src="https://cursor.com/en/twitter-image.png?375711d39ab904b7" alt="Cursor ai" height="40" style="vertical-align:top; margin:4px"> -->
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrQ_CU3a6muH84mLfoP6xmM4ZJ9Z6RAXMmdA&s" alt="Cursor ai" height="40" style="vertical-align:top; margin:4px">
         <!-- Andoid Studio -->
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/120px-Android_Studio_icon_%282023%29.svg.png" alt="Andoid Studio" height="40" style="vertical-align:top; margin:4px">
         <!-- i2 Analyst's Notebook  -->
